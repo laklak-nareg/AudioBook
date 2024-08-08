@@ -1,3 +1,3 @@
-This is a book created by nareg and is read by the python script.
+This is merely a test done to speech from text with a python script.
 
-Lets see how well this works
+Nareg Laklakian
